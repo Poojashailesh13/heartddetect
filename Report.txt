@@ -1,0 +1,3 @@
+-----Patient Report-----
+ As per input data and system model Heart Disease Detected for Respective Paptient.
+***Kindly Follow Medicatins***
